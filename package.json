@@ -1,0 +1,13 @@
+{
+  "name": "line-remote-bot",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.2",
+    "express": "^4.19.2"
+  }
+}
